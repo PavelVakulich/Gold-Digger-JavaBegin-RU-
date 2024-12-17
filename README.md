@@ -17,3 +17,6 @@
 - Observer
 - Strategy
 - State
+
+![image](https://github.com/user-attachments/assets/75d44b74-eb77-4c0e-8a0c-752850ff8b16)
+
