@@ -18,5 +18,7 @@
 - Strategy
 - State
 
-![image](https://github.com/user-attachments/assets/75d44b74-eb77-4c0e-8a0c-752850ff8b16)
+
+![image](https://github.com/user-attachments/assets/5e5a3a6d-d9cb-465b-988f-9a45fa9a9886)
+
 
